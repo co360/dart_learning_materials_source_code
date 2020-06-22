@@ -2,6 +2,16 @@
 ## Dart learning material source code (for books and video cources). Improvements and updates.
 
 ### Books
-- [*Dart for Absolute Beginners*](https://github.com/rustkas/dart-for-absolute-begs) by David Kopec (Apress, 2014).
-- R&amp;D instared by the book [Quick Start Guide to Dart Programming](https://github.com/rustkas/quick_start_guide_to_dart_programming_r-d) by  Sinha Sanjib (Apress, 2020).
-- R&amp;D instared by the book ["Dart in Action"](https://github.com/rustkas/dart_in_action_my_R-D) by Chris Buckett (Manning, 2013).
+<dl>
+  <dt><a href="https://www.manning.com/books/dart-in-action">Dart in Action</a> by Chris Buckett (Manning, 2013)</dt>
+    <dd><a href="https://www.manning.com/downloads/555">Books' source code</a></dd> 
+    <dd>R&amp;D <a href="https://github.com/rustkas/dart_in_action_my_R-D">source code</a></dd>  
+  
+  <dt><a href="https://www.apress.com/gp/book/9781430264811">Dart for Absolute Beginners</a> by David Kopec (Apress, 2014)</dt>
+    <dd><a href="https://github.com/apress/dart-for-absolute-begs">Books' source code</a></dd> 
+    <dd>R&amp;D <a href="https://github.com/rustkas/dart-for-absolute-begs">source code</a></dd>  
+    
+  <dt><a href="https://www.apress.com/gp/book/9781484255612">Quick Start Guide to Dart Programming</a> by Sinha Sanjib (Apress, 2020)</dt>
+    <dd>R&amp;D <a href="https://github.com/rustkas/dart-for-absolute-begs">source code</a></dd>  
+  
+</dl>  
