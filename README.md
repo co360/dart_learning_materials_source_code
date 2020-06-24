@@ -1,7 +1,7 @@
 # Dart learning material source code
 ## Dart learning material source code (for books and video cources). Improvements and updates.
 
-### Books
+### ![](https://placehold.it/350x90/009955/fff?text=Books)
 <dl>
   <dt><a href="https://www.manning.com/books/dart-in-action">Dart in Action</a> by Chris Buckett (Manning, 2013)</dt>
     <dd>Books' <a href="https://www.manning.com/downloads/555">source code</a></dd> 
