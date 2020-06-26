@@ -4,7 +4,6 @@
 ### ![](https://placehold.it/350x90/009955/fff?text=Books)
 <dl>
   <dt><a href="https://www.apress.com/gp/book/9781484255612">Quick Start Guide to Dart Programming</a> by Sinha Sanjib (Apress, 2020)</dt>
-    
     <dd>Books' <a href="https://github.com/sanjibsinha/learn-dart-a-hard-way">source code</a></dd> 
     <dd>R&amp;D <a href="https://github.com/rustkas/learn-dart-a-hard-way">source code</a></dd>  
   
