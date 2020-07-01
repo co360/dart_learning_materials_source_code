@@ -7,6 +7,10 @@
     <dd>Books' <a href="https://github.com/sanjibsinha/learn-dart-a-hard-way">source code</a></dd> 
     <dd>R&amp;D <a href="https://github.com/rustkas/learn-dart-a-hard-way">source code</a></dd>  
   
+  <dt><a href="https://www.apress.com/gp/book/9781484205570">Web Programming with Dart</a> by Belchin, Moises, Juberias, Patricia (Apress, 2015)</dt>
+    <dd>Books' <a href="https://github.com/Apress/web-programming-w-dart">source code</a></dd> 
+    <dd>R&amp;D <a href="https://github.com/rustkas/web-programming-w-dart">source code</a></dd>  
+  
   <dt><a href="https://www.apress.com/gp/book/9781430264811">Dart for Absolute Beginners</a> by David Kopec (Apress, 2014)</dt>
     <dd>Books' <a href="https://github.com/apress/dart-for-absolute-begs">source code</a></dd> 
     <dd>R&amp;D <a href="https://github.com/rustkas/dart-for-absolute-begs">source code</a></dd>  
