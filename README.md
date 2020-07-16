@@ -27,6 +27,6 @@
     <dd>R&amp;D <a href="https://github.com/rustkas/Dart-Up-and-Running-R-D">source code</a></dd>  
   
   <dt><a href="https://www.oreilly.com/library/view/what-is-dart/9781449333164">What is Dart?</a> by Kathy Walrath and Seth Ladd (O'Reilly Media, 2012)</dt>
-    <dd>R&amp;D <a href="https://github.com/rustkas/What-is-Dart">source code</a></dd>  
+    <dd>R&amp;D <a href="https://github.com/rustkas/What-is-Dart-R-D">source code</a></dd>  
   
 </dl>  
