@@ -23,9 +23,10 @@
     <dd>Books' <a href="https://www.manning.com/downloads/555">source code</a></dd> 
     <dd>R&amp;D <a href="https://github.com/rustkas/dart_in_action_my_R-D">source code</a></dd>  
   
+  <dt><a href="https://www.manning.com/books/dart-in-action">Dart:Up and Running</a> by Kathy Walrath and Seth Ladd (O'Reilly Media, 2013)</dt>
+    <dd>R&amp;D <a href="https://github.com/rustkas/Dart-Up-and-Running-R-D">source code</a></dd>  
+  
   <dt><a href="https://www.manning.com/books/dart-in-action">What is Dart?</a> by Kathy Walrath and Seth Ladd (O'Reilly Media, 2012)</dt>
     <dd>R&amp;D <a href="https://github.com/rustkas/What-is-Dart">source code</a></dd>  
-    
-    
   
 </dl>  
