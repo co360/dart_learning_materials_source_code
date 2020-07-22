@@ -11,7 +11,7 @@
     <dd>Books' <a href="https://github.com/Apress/web-programming-w-dart">source code</a></dd> 
     <dd>R&amp;D <a href="https://github.com/rustkas/web-programming-w-dart">source code</a></dd>  
   
-  <dt><a href="hhttps://subscription.packtpub.com/book/web_development/97817839895601">Mastering Dart</a> by Sergey Akopkokhyants (Packt, 2014)</dt>
+  <dt><a href="https://subscription.packtpub.com/book/web_development/97817839895601">Mastering Dart</a> by Sergey Akopkokhyants (Packt, 2014)</dt>
     <dd>R&amp;D <a href="https://github.com/rustkas/Mastering-Dart-Sergey-Akopkokhyants-R-D">source code</a></dd>  
     
   <dt><a href="https://www.apress.com/gp/book/9781430264811">Dart for Absolute Beginners</a> by David Kopec (Apress, 2014)</dt>
